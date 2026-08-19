@@ -1,0 +1,16 @@
+Primero instale VirtualBox a traves de Google y luego descargue la ISO de la ultima version de Ubuntu.
+Con ambos programas instalados, monte la ISO en VirtualBox de la siguiente manera:
+
+Seleccione New o Nuevo.
+
+Puse el nombre Ubuntu al archivo.
+
+Seleccione la ISO entre los archivos.
+
+Ingrese un nombre de usuario y contrasena.
+
+Asigne la memoria RAM y el almacenamiento que se utilizaria.
+
+Despues de que se termino de instalar, inicie sesion en GitHub.
+Cree un repositorio en GitHub, instale Visual Studio Code e instale Git.
+Vincule mi cuenta de GitHub con Visual Studio y adjunte el repositorio de GitHub a un nuevo archivo en Visual Studio.
